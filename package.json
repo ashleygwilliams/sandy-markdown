@@ -1,0 +1,6 @@
+{
+  "name": "sandy-markdown",
+  "dependencies": {
+    "marky-markdown": "https://github.com/patriciarealini/marky-markdown.git"
+  }
+}
