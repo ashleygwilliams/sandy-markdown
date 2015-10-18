@@ -1,5 +1,8 @@
 {
   "name": "sandy-markdown",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "marky-markdown": "https://github.com/patriciarealini/marky-markdown.git"
   }
